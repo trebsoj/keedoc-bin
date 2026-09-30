@@ -18,5 +18,3 @@ Each release contains:
 - `keedoc-linux-x86_64.tar.gz.sha256` — its checksum
 - `PKGBUILD` — ready-to-use AUR recipe for `keedoc-bin`
 - `LICENSE` — 0BSD license covering the `PKGBUILD` recipe
-
-[EULA]: https://github.com/trebsoj/keedoc/blob/main/EULA.md
