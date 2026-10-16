@@ -1,7 +1,7 @@
 # KeeDoc — binary releases
 
 This repository hosts only the compiled Linux release bundles for
-[KeeDoc](https://github.com/trebsoj/keedoc), a secure, encrypted vault for
+[KeeDoc](https://keedoc.app), a secure, encrypted vault for
 your documents. It exists so that the AUR package `keedoc-bin` and other
 distribution channels can fetch binaries anonymously.
 
